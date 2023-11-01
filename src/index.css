@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/*
+took from the documentation
+import at index.js
+*/
+
+/* button with icons */
+button > svg { 
+  margin-right: 5px;
+}
